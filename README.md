@@ -11,6 +11,7 @@ Studied about Graph theory, Harmonic analysis, optimal bounded theory, Neural ta
 
 ---------------------------------------------------------------------------------------------
 I am going to graduate from Yonsei University with a master's degree in math and calculation.
+
 If you have any questions about personal contact or research, please email us.
 
 tltydl2@yonsei.ac.kr
